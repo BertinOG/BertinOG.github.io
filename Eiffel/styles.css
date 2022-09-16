@@ -1,0 +1,68 @@
+	@charset "utf-8";
+
+body
+
+{
+
+margin: 0px;
+
+padding: 0px;
+
+background-color:white;
+
+font-family: Arial, Helvetica, "sans-serif";
+
+font-size: 18px;
+
+text-align: center;
+
+}
+
+#page
+
+{
+
+max-width:800px;
+
+margin: 20px auto;
+
+padding: 30px;
+
+border: double 10px white;
+
+background-color: #854f4a;
+
+}
+
+#header /* Styles for Heading */
+
+{
+
+padding: 5px;
+
+background-color: #4A8085;
+
+text-align: center;
+
+}
+
+img
+
+{
+
+border: double 10px #4A8085;
+
+}
+
+#right-column
+
+{
+	#right-column h2 {font-size: 1.2rem; font-weight: bold;}
+
+float: right;
+
+width: 350px;
+
+text-align: left;
+
+}
